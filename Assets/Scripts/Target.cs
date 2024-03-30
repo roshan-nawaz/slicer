@@ -18,6 +18,8 @@ public class Target : MonoBehaviour
     private Rigidbody targetRb;
     public ParticleSystem explodeParticle;
     //audio source
+
+    
     [SerializeField]
     private AudioSource sliceEffectSound;
 
